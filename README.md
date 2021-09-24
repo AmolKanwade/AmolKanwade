@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AmolKanwade
+- 👀 I’m interested in computer hardware and networking
+- 🌱 I’m currently learning aws server and devops
+- 📫 How to reach me here its my gmail = amukanwade47@gmail.com 
